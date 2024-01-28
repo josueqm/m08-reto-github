@@ -1,0 +1,6 @@
+Ejemplo de un cambio en el repositorio local:
+
+Se ha creado un fichero de texto el que sera subido con un Commit a el
+repositorio Remoto (Github).
+
+@jquispe
