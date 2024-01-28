@@ -1,2 +1,2 @@
 # m08-reto-github
-Desarrollo del reto de M08 - Despliegue de Aplicaciones Web - DAW
+Desarrollo del reto del módulo M08: Despliegue de Aplicaciones Web - DAW
